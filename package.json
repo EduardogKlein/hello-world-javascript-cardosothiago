@@ -1,0 +1,11 @@
+{
+  "name": "hello-world-javascript",
+  "version": "1.0.0",
+  "description": "Hello World JavaScript",
+  "main": "index.js",
+  "repository": "git@github.com:catolicasc-mobile/hello-world-javascript.git",
+  "author": "Alan R. Fachini <alan.fachini@catolicasc.org.br>",
+  "license": "MIT",
+  "dependencies": {
+  }
+}
