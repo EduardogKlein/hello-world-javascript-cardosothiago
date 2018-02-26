@@ -1,8 +1,6 @@
 # JavaScript Katas
 
 [![Build Status](https://travis-ci.org/catolicasc-mobile/hello-world-javascript.svg?branch=master)](https://travis-ci.org/catolicasc-mobile/hello-world-javascript)
-[![Maintainability](https://api.codeclimate.com/v1/badges/406a69444eaca8f4bbd6/maintainability)](https://codeclimate.com/github/catolicasc-mobile/hello-world-javascript/maintainability)
-[![Test Coverage](https://api.codeclimate.com/v1/badges/406a69444eaca8f4bbd6/test_coverage)](https://codeclimate.com/github/catolicasc-mobile/hello-world-javascript/test_coverage)
 
 Exercícios de código para o aprendizado da linguagem JavaScript.
 
